@@ -29,7 +29,7 @@ if form.getvalue("inputanimal"):
     chatons.getimages(animal)
     printresult()
 else:
-    raise Exception("Animal non écris")
+    raise Exception("Animal non écrit")
 
 
 
