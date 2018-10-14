@@ -20,7 +20,7 @@ html_form = """
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Quel est ton animal favori dans un dico d'animaux! ?</h2>
+<h2>Quel est ton animal favori dans un dico d'animaux!! ?</h2>
     <form action="/result.py" method="post">
     <p><input name="inputanimal" type="text">
     <input type="submit"></p>
